@@ -1,6 +1,7 @@
 # awesome-community
 
 一个互联网社区收集书签页。
+
 A Internet Community collect bookmarks.
 
 ## 阿卡林刘自己 (AkarinLiu itself)
@@ -10,10 +11,10 @@ A Internet Community collect bookmarks.
 - [Discourse Meta](https://meta.discourse.org)
 - [Flarum Discuss](https://discuss.flarum.org)
 
-## 开源社区论坛
+## 开源社区论坛 (Open Source Community Forum)
 - [OBS Forums](https://obsproject.com/forum/)
 - [rclone forum](https://forum.rclone.org)
-- [Mozilla Discourse](https://discourse
+- [Mozilla Discourse](https://discourse.mozilla.org)
 
 ## Linux 发行版社区 (Linux Distro Community)
 - [AOSC BBS](https://bbs.aosc.io/)
