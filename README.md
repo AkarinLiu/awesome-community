@@ -22,3 +22,6 @@ A Internet Community collect bookmarks.
 - [Arch Linux 中文论坛](https://forum.archlinuxcn.org/)
 - [Debian中文论坛](https://forums.debiancn.org/)
 - [openSUSE 中文论坛](https://forum.suse.org.cn/)
+
+## 学术 / 学习社区 (Academic / Study Community)
+- [Physics with Ethan](https://discourse.ac) — Independent STEM study and discussion forum.
