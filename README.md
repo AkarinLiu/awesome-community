@@ -12,10 +12,10 @@ A Internet Community collect bookmarks.
 - [Flarum Discuss](https://discuss.flarum.org)
 
 ## 开源社区论坛 (Open Source Community Forum)
+- [Bitwarden Community Forums](https://community.bitwarden.com/)
+- [Mozilla Discourse](https://discourse.mozilla.org)
 - [OBS Forums](https://obsproject.com/forum/)
 - [rclone forum](https://forum.rclone.org)
-- [Mozilla Discourse](https://discourse.mozilla.org)
-- [Bitwarden Community Forums](https://community.bitwarden.com/)
 
 ## Linux 发行版社区 (Linux Distro Community)
 - [AOSC BBS](https://bbs.aosc.io/)
