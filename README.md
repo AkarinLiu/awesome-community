@@ -15,6 +15,7 @@ A Internet Community collect bookmarks.
 - [OBS Forums](https://obsproject.com/forum/)
 - [rclone forum](https://forum.rclone.org)
 - [Mozilla Discourse](https://discourse.mozilla.org)
+- [Bitwarden Community Forums](https://community.bitwarden.com/)
 
 ## Linux 发行版社区 (Linux Distro Community)
 - [AOSC BBS](https://bbs.aosc.io/)
