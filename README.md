@@ -2,6 +2,8 @@
 
 一个互联网社区收集书签页。
 
+[Awesome Logo](https://github.com/sindresorhus/awesome/raw/main/media/logo.svg)
+
 A Internet Community collect bookmarks.
 
 ## 阿卡林刘自己 (AkarinLiu itself)
