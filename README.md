@@ -1,8 +1,8 @@
 # awesome-community
 
-一个互联网社区收集书签页。
-
 ![Awesome Logo](https://github.com/sindresorhus/awesome/raw/main/media/logo.svg)
+
+一个互联网社区收集书签页。
 
 A Internet Community collect bookmarks.
 
