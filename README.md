@@ -16,6 +16,9 @@ A Internet Community collect bookmarks.
 - [Discourse Meta](https://meta.discourse.org)
 - [Flarum Discuss](https://discuss.flarum.org)
 
+## 复古电脑社区 (Retro Computer Community)
+- [Commander X16](https://cx16forum.com/forum/index.php)
+
 ## Linux 发行版社区 (Linux Distro Community)
 - [AOSC BBS](https://bbs.aosc.io/)
 - [Arch Linux 中文论坛](https://forum.archlinuxcn.org/)
