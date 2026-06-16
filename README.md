@@ -1,6 +1,6 @@
 # awesome-community
 
-![Awesome Logo](https://github.com/sindresorhus/awesome/raw/main/media/logo.svg)
+![Awesome Badage](https://camo.githubusercontent.com/9d49598b873146ec650fb3f275e8a532c765dabb1f61d5afa25be41e79891aa7/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
 
 一个互联网社区收集书签页。
 
